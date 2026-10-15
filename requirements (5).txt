@@ -1,0 +1,7 @@
+python-telegram-bot>=20.0
+aiosqlite
+python-telegram-bot[job-queue]
+telethon
+aiohttp
+qrcode
+pillow
